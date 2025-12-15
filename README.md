@@ -46,8 +46,8 @@ The goal was to move beyond simple frequency analysis and uncover the **underlyi
 * `data/`: Raw and processed datasets (CSV).
 
 ### 🔗 Quick Links
-* [**View Analysis Code**](notebooks/Sentiment_Topic_Analysis.ipynb)
-* [**Read Full Report (PDF)**](reports/Project_Report.pdf)
+* [**View Analysis Code**](notebook/Sentiment_Analisys.ipynb)
+* [**Read Full Report (PDF)**](report/Project_Report.pdf)
 
 ---
 *Author: Lorenzo D'Amico*

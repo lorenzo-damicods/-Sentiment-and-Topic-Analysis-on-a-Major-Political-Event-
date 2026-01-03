@@ -1,4 +1,5 @@
-# -Sentiment-and-Topic-Analysis-on-a-Major-Political-Event-
+Automated News Mining & Monitoring Pipeline
+
 # 🗳️ Global Media Framing of the Trump Assassination Attempt: Sentiment and Topic Analysis
 
 ### 📋 Project Overview
